@@ -1,0 +1,30 @@
+.sec6_sol{
+	width: 47%;
+	background-color: #e8ecf1;
+	padding: 16px;
+	border-radius: 10px;
+}
+.orta_sol1{
+	width: 60%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.online {
+	width: 100%;
+}
+.online p{
+	font-size: 30px;
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 700;
+}
+.bank{
+	width: 80%;
+}
+.bank p{
+	font-size: 15px;
+	font-family: 'Noto Sans', sans-serif;
+}
+.odenis a , .odenis i{
+	color: #f4537f;
+}

@@ -1,0 +1,9 @@
+.Kapital_Bank ul {
+	height: 192px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Kapital_Bank a , .Məhsullar a , .Çevik_keçidlər a , .Digər a{
+	color: white;
+}

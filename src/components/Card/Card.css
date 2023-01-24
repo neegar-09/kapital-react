@@ -1,0 +1,30 @@
+.qutu{
+	width: 138px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;
+	border-radius: 10px;
+	background-color: #ffffff;
+	padding: 25px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) , 0 8px 16px rgba(0, 0, 0, 0.1);
+	height: 119px;
+}
+
+.qutu img{
+	width: 40px;
+}
+.qutular a{
+	color: black;
+	font-size: 20px;
+	text-align: center;
+}
+.qutular i{
+	color: #f45369;
+	font-size: 35px;
+}
+.span_qutu span{
+	font-weight: 300;
+	color: red;
+
+}
